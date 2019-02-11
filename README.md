@@ -12,7 +12,7 @@ https://bloodybogan.github.io/Modern-Sign-Up-Form-Concept/
 
 ## Contributing
 
-Feel free to make this page responsible or add functionality to it.
+Feel free to add functionality to the form.
 
 ## Versioning
 
