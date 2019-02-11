@@ -16,7 +16,11 @@ Feel free to make this page responsible or add functionality to it.
 
 ## Versioning
 
-v1.0
+v1.1
+
+- Turned autocomplete off
+- Added vendor prefixes
+- Page is now responsive
 
 ## Authors
 
