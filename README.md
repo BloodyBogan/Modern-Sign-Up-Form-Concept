@@ -1,4 +1,4 @@
-# Modern Sign Up Form Concept | Desktop Only
+# Modern Sign Up Form Concept | Responsive
 
 Modern-looking sign up form concept created using flexbox.
 
